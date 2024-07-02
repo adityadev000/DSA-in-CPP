@@ -1,4 +1,4 @@
-//p96 -> Minimum Spanning Tree kruskals algo.
+//p97 -> Minimum Spanning Tree kruskals algo.
 #include<iostream>
 #include<bits/stdc++.h>
 
