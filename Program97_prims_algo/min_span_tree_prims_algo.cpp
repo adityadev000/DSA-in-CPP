@@ -1,4 +1,4 @@
-//p95 ->  Prim's MST
+//p96 ->  Prim's MST
 #include<iostream>
 #include<bits/stdc++.h>
 
